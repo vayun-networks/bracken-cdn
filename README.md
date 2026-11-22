@@ -2,6 +2,8 @@
 
 > BRACKEN edge delivery services for HTTP reverse proxying, cache policy, origin management, invalidation, TLS, and delivery analytics.
 
+> Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN CDN
